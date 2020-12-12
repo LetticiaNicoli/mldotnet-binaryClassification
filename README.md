@@ -1,6 +1,6 @@
-# Machine Learning for .NET - Sentiment Analysis
+# Machine Learning for .NET - Sample of sentiment analysis
 
-Sample of using [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) for binary classification
+Sample using [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) for binary classification
 
 Used the `amazon_cells_labelled.txt` of [UCI Sentiment labelled sentences dataset zip file](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences#)
 
