@@ -16,7 +16,7 @@ namespace SampleClassification.ConsoleApp
 {
     public static class ModelBuilder
     {
-        private static string TRAIN_DATA_FILEPATH = @"/Users/letticianicoli/Documents/Projects/Machine Learning/ML.NET - 12.6/mldotnet-binaryClassification/amazon_cells_labelled.txt";
+        private static string TRAIN_DATA_FILEPATH = @"path/dataset.xxx";
         private static string MODEL_FILE = ConsumeModel.MLNetModelPath;
 
         // Create MLContext to be shared across the model creation workflow objects 
